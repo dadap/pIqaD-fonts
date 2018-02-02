@@ -2,13 +2,13 @@
 <font>
 <format svg="false">3.4</format>
 
-<postscript_name>tlhIngan pIqaD nap</postscript_name>
-<name>tlhIngan pIqaD nap</name>
+<postscript_name>pIqaD nap</postscript_name>
+<name>pIqaD nap</name>
 <subfamily>Regular</subfamily>
 <bold>false</bold>
 <italic>false</italic>
-<full_name>tlhIngan pIqaD nap Regular</full_name>
-<unique_identifier>tlhIngan pIqaD nap</unique_identifier>
+<full_name>pIqaD nap Regular</full_name>
+<unique_identifier>pIqaD nap</unique_identifier>
 <version>Version 0.0</version>
 <description>A simple Klingon pIqaD typeface</description>
 <copyright>SIL Open Font License</copyright>
