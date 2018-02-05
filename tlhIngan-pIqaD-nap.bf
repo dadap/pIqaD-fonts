@@ -80,7 +80,7 @@
 
 <collection unicode="U+20" svg="false"auto_generate="false">
 	<selected id="0"/>
-	<glyph id="0" left="0" right="27">
+	<glyph id="0" left="0" right="36">
 	</glyph>
 </collection>
 
