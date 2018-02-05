@@ -656,14 +656,6 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+01f110" svg="false"auto_generate="false">
-	<selected id="0"/>
-	<glyph id="0" left="-28" right="28">
-		<layer name= "Layer" visible="true">
-		</layer>
-	</glyph>
-</collection>
-
 
 
 
