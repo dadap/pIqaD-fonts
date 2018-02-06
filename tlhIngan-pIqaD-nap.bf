@@ -103,7 +103,7 @@
 </collection>
 
 <collection unicode="U+f8d0" svg="false"auto_generate="false">
-	<selected id="2"/>
+	<selected id="5"/>
 	<glyph id="0" left="-28" right="34">
 		<layer name= "Layer" visible="true">
 			<path data="S 30.0000000000,66.0000000000 L 28.0000000000,58.0000000000 D 8.0000000000,50.0000000000 -16.0000000000,18.0000000000 -20.0000000000,6.0000000000 D -8.0000000000,6.0000000000 16.0000000000,6.0000000000 28.0000000000,6.0000000000 D 30.0000000000,6.0000000000 32.0000000000,2.0000000000 34.0000000000,-4.0000000000 L 28.0000000000,-6.0000000000 D 26.0611636646,-0.1834909939 22.1999096488,0.0084036810 -28.3333333333,0.1201550388 D -24.0000000000,20.0000000000 6.0000000000,58.0000000000 29.9147286822,65.8798449612 D 34.3457582910,49.1106898039 30.0000000000,66.0000000000 30.0000000000,66.0000000000 O" />
@@ -124,6 +124,22 @@
 	<glyph id="2" left="-28" right="40">
 		<layer name= "Layer" visible="true">
 			<path data="S 30.0000000000,66.0000000000 L 28.0000000000,56.0000000000 Q 12.0000000000,50.0000000000 0.0000000000,36.0000000000 Q 10.0000000000,36.0000000000 20.0000000000,36.0000000000 Q 20.0000000000,36.0000000000 16.0000000000,26.0000000000 Q 6.0000000000,26.0000000000 -6.0000000000,26.0000000000 Q -13.7777777778,16.0000000000 -16.0000000000,10.0000000000 Q -4.0000000000,10.0000000000 26.0000000000,10.0000000000 Q 34.0000000000,10.0000000000 36.0000000000,-4.0000000000 L 28.0000000000,-6.0000000000 Q 26.0000000000,0.0000000000 22.0000000000,0.0000000000 Q 20.0693729921,0.0959473374 -28.3333333333,0.1201550388 Q -24.0000000000,20.0000000000 -9.0000000000,39.0000000000 Q 6.0000000000,58.0000000000 29.9147286822,65.8798449612 D 34.3457582910,49.1106898039 6.0000000000,58.0000000000 30.0000000000,66.0000000000 O" />
+		</layer>
+	</glyph>
+	<glyph id="3" left="-26" right="34">
+		<layer name= "Layer" visible="true">
+			<path data="S -7.0000000000,1.0000000000 Q -22.0000000000,3.0000000000 -26.0000000000,5.0000000000 Q -16.0000000000,39.0000000000 14.0000000000,67.0000000000 L 20.0000000000,57.0000000000 Q -6.0000000000,33.0000000000 -12.0000000000,13.0000000000 Q -8.0000000000,11.0000000000 3.0000000000,10.0000000000 Q 14.0000000000,9.0000000000 26.0000000000,11.0000000000 L 28.0000000000,1.0000000000 Q 24.1363636364,0.6136363636 20.4593233471,0.3765495868 Q 5.1022727273,-0.6136363636 -7.0000000000,1.0000000000" />
+			<path data="S 16.2352941176,0.2058823529 L 16.2352941176,0.2058823529 O" />
+		</layer>
+	</glyph>
+	<glyph id="4" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S -26.0000000000,1.9687500000 Q -16.0000000000,36.9687500000 14.0000000000,67.9687500000 L 20.0000000000,57.9687500000 Q 8.9861111111,46.5312500000 1.5611496914,36.1704282407 Q 22.0000000000,36.0000000000 22.0000000000,36.0000000000 Q 22.0000000000,36.0000000000 18.0000000000,26.0000000000 Q 17.9555856993,25.9770354644 -4.9665798611,26.0787760417 Q -9.8125000000,17.6250000000 -12.0000000000,9.9687500000 D 18.0000000000,10.0000000000 28.0000000000,8.0000000000 30.0000000000,0.0000000000 Q 30.0000000000,0.0000000000 20.0000000000,-2.0312500000 Q 18.0000000000,0.0000000000 0.0000000000,-0.0312500000 Q -16.0000000000,0.0000000000 -26.0000000000,1.9687500000" />
+		</layer>
+	</glyph>
+	<glyph id="5" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S -26.0000000000,2.0000000000 Q -16.0000000000,37.0000000000 14.0000000000,68.0000000000 L 20.0000000000,58.0000000000 Q 8.8276259214,46.3979192260 1.3482087230,35.9037255162 Q 20.0000000000,36.0000000000 20.0000000000,36.0000000000 Q 16.0000000000,26.0000000000 16.0000000000,26.0000000000 Q 16.0000000000,26.0000000000 -5.1044921875,25.8686523438 Q -9.8437500000,17.5468750000 -12.0000000000,10.0000000000 D -2.1718750000,8.7421875000 15.9375000000,9.1210937500 30.0000000000,10.0000000000 Q 28.0000000000,0.0000000000 28.0000000000,0.0000000000 Q -14.0000000000,-2.0000000000 -26.0000000000,2.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -154,7 +170,7 @@
 			<path data="S -16.0000000000,18.0000000000 D -16.0000000000,14.0000000000 -6.0000000000,8.0000000000 4.0000000000,8.0000000000 D 10.0000000000,8.0000000000 20.0000000000,18.0000000000 20.0000000000,26.0000000000 D 20.0000000000,32.0000000000 12.0010000000,44.0000000000 12.0000000000,44.0000000000 D 0.0000000000,38.0000000000 -16.0000000000,22.0000000000 -16.0000000000,18.0000000000" />
 		</layer>
 	</glyph>
-	<glyph id="1" left="-24" right="34">
+	<glyph id="1" left="-24" right="32">
 		<layer name= "Layer" visible="true">
 			<path data="S -26.0000000000,56.0000000000 L -19.7410893911,66.0000000000 Q -2.3723459666,58.6293316548 6.8856021820,54.1248454380 Q 28.0000000000,44.0000000000 26.0000000000,26.0000000000 Q 22.0000000000,0.0000000000 -2.6918465276,-0.1915653069 Q -38.0000000000,0.0000000000 -12.0000000000,50.0000000000 L -26.0000000000,56.0000000000" />
 			<path data="S -2.0000000000,10.0000000000 Q 12.0000000000,10.0000000000 16.0000000000,26.0000000000 Q 18.0000000000,38.0000000000 -2.0000000000,46.0000000000 Q -23.3888786394,9.5896188152 -2.0000000000,10.0000000000" />
@@ -163,10 +179,15 @@
 </collection>
 
 <collection unicode="U+f8d4" svg="false"auto_generate="false">
-	<selected id="0"/>
+	<selected id="1"/>
 	<glyph id="0" left="-32" right="34">
 		<layer name= "Layer" visible="true">
 			<path data="S 28.0000000000,66.0000000000 L 26.0000000000,56.0000000000 Q -8.0000000000,58.0000000000 -18.0000000000,54.0000000000 Q -22.0000000000,52.0000000000 -16.0000000000,0.0000000000 L -26.0000000000,-2.0000000000 Q -32.0000000000,46.0000000000 -31.0000000000,53.0000000000 Q -30.0000000000,60.0000000000 -26.0000000000,62.0000000000 Q -22.0000000000,64.0000000000 -7.0000000000,66.0000000000 Q 8.0000000000,68.0000000000 28.0000000000,66.0000000000" />
+		</layer>
+	</glyph>
+	<glyph id="1" left="-28" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S 28.0000000000,68.0000000000 Q 28.0000000000,68.0000000000 29.6640625000,57.2265625000 D 15.6015625000,58.1054687500 -4.1718750000,57.2578125000 -14.0000000000,56.0000000000 Q -18.0000000000,54.0000000000 -18.0000000000,46.0000000000 Q -18.0000000000,32.0000000000 -16.0000000000,2.0000000000 L -26.0000000000,0.0000000000 Q -30.0000000000,60.0000000000 -26.0000000000,62.0000000000 Q -24.0000000000,64.0000000000 -18.7830504884,65.6278541099 Q -4.2181146026,68.0000000000 28.0000000000,68.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -206,9 +227,9 @@
 
 <collection unicode="U+f8d7" svg="false"auto_generate="false">
 	<selected id="0"/>
-	<glyph id="0" left="-28" right="30">
+	<glyph id="0" left="-28" right="24">
 		<layer name= "Layer" visible="true">
-			<path data="S -18.0000000000,68.0000000000 Q -44.0000000000,12.0000000000 -4.0000000000,0.0000000000 Q 10.0000000000,-4.0000000000 24.0000000000,6.0000000000 L 22.0000000000,16.0000000000 Q -6.0000000000,-4.0000000000 -18.0000000000,28.0000000000 Q -18.0000000000,28.0000000000 -12.0000000000,28.0000000000 Q 16.0333026671,27.8797268488 18.0000000000,60.0000000000 Q 18.0500000000,60.0000000000 8.0000000000,62.0000000000 Q 8.0000000000,32.0000000000 -18.0000000000,38.0000000000 Q -16.6676598128,47.3263813101 -8.0000000000,62.0000000000 L -18.0000000000,68.0000000000" />
+			<path data="S -20.0000000000,68.0000000000 Q -42.1764705882,10.0000000000 -8.0000000000,0.0000000000 Q 0.0000000000,-2.0000000000 18.0000000000,2.0000000000 L 14.0000000000,12.0000000000 Q -18.0000000000,4.0000000000 -18.0000000000,26.0000000000 Q -18.0000000000,26.0000000000 -12.0000000000,26.0000000000 Q 18.0000000000,26.0000000000 18.0000000000,58.0000000000 Q 18.0500000000,58.0000000000 8.0446875000,61.9687500000 Q 12.0000000000,32.0000000000 -18.0000000000,36.0000000000 Q -18.0000000000,48.0000000000 -10.0000000000,64.0000000000 L -20.0000000000,68.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -223,10 +244,20 @@
 </collection>
 
 <collection unicode="U+f8d9" svg="false"auto_generate="false">
-	<selected id="1"/>
+	<selected id="3"/>
 	<glyph id="1" left="-28" right="40">
 		<layer name= "Layer" visible="true">
 			<path data="S 30.0000000000,66.0000000000 L 28.0000000000,56.0000000000 Q 11.0000000000,48.0000000000 0.0000000000,34.0000000000 Q -10.0000000000,22.0000000000 -16.0000000000,10.0000000000 Q -4.0000000000,10.0000000000 26.0000000000,10.0000000000 Q 34.0000000000,10.0000000000 36.0000000000,-4.0000000000 L 28.0000000000,-6.0000000000 Q 26.0000000000,0.0000000000 22.0000000000,0.0000000000 Q 20.0693729921,0.0959473374 -28.3333333333,0.1201550388 Q -24.0000000000,20.0000000000 -9.0000000000,39.0000000000 Q 6.0000000000,58.0000000000 29.9147286822,65.8798449612 D 34.3457582910,49.1106898039 6.0000000000,58.0000000000 30.0000000000,66.0000000000 O" />
+		</layer>
+	</glyph>
+	<glyph id="2" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S -26.0000000000,1.9687500000 Q -16.0000000000,36.9687500000 14.0000000000,67.9687500000 L 20.0000000000,57.9687500000 Q -6.0000000000,30.9687500000 -12.0000000000,9.9687500000 D 18.0000000000,12.0000000000 30.0000000000,8.0312500000 30.0000000000,0.0000000000 Q 30.0000000000,0.0000000000 20.0000000000,-2.0312500000 Q 18.0000000000,2.0000000000 0.0000000000,-0.0312500000 Q -16.0000000000,-2.0000000000 -26.0000000000,1.9687500000" />
+		</layer>
+	</glyph>
+	<glyph id="3" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S -26.0000000000,2.0000000000 Q -16.0000000000,37.0000000000 14.0000000000,68.0000000000 L 20.0000000000,58.0000000000 Q -6.0000000000,31.0000000000 -12.0000000000,10.0000000000 D -2.1718750000,8.7421875000 15.9375000000,9.1210937500 30.0000000000,10.0000000000 Q 28.0000000000,0.0000000000 28.0000000000,0.0000000000 Q -14.0000000000,-2.0000000000 -26.0000000000,2.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -319,9 +350,9 @@
 			<path data="S 0.0000000000,64.0000000000 L -4.0000000000,56.0000000000 D 6.0000000000,52.0000000000 26.0000000000,42.0000000000 26.0000000000,32.0000000000 D 26.0000000000,12.0000000000 -10.0000000000,0.0000000000 -18.0000000000,0.0000000000 L -14.0000000000,10.0000000000 D -8.0000000000,10.0000000000 16.0000000000,18.0000000000 16.0000000000,30.0000000000 D 16.0000000000,38.0000000000 -6.0000000000,46.0000000000 -16.0000000000,50.0000000000 L -10.0000000000,68.0000000000 L 0.0000000000,64.0000000000" />
 		</layer>
 	</glyph>
-	<glyph id="1" left="-14" right="28">
+	<glyph id="1" left="-18" right="28">
 		<layer name= "Layer" visible="true">
-			<path data="S 4.0000000000,62.0000000000 L 0.0000000000,50.0000000000 Q 24.0000000000,40.0000000000 22.0000000000,28.0000000000 Q 20.0000000000,8.0000000000 -8.0000000000,0.0000000000 L -12.0000000000,8.0000000000 Q 12.0000000000,16.0000000000 12.0000000000,28.0000000000 Q 12.0000000000,38.0000000000 -14.0000000000,44.0000000000 L -6.0000000000,66.0000000000 L 4.0000000000,62.0000000000" />
+			<path data="S 4.0000000000,62.0000000000 L 0.0000000000,50.0000000000 Q 28.0000000000,58.0000000000 24.0000000000,28.0000000000 Q 22.0000000000,12.0000000000 -8.0000000000,0.0000000000 L -12.0000000000,10.0000000000 Q 12.0000000000,18.0000000000 14.0000000000,30.0000000000 Q 18.0000000000,52.0000000000 -18.0000000000,30.0000000000 L -6.0000000000,66.0000000000 L 4.0000000000,62.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -350,7 +381,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="22">
 		<layer name= "Layer" visible="true">
-			<path data="S 4.0000000000,62.0000000000 L -4.0000000000,44.0000000000 Q 20.0000000000,44.0000000000 14.0000000000,2.0000000000 L 2.0000000000,0.0000000000 Q 16.0000000000,36.0000000000 -16.0000000000,36.0000000000 L -6.0000000000,66.0000000000 L 4.0000000000,62.0000000000" />
+			<path data="S 4.0000000000,62.0000000000 L -2.0000000000,44.0000000000 Q 18.0000000000,44.0000000000 14.0000000000,2.0000000000 L 2.0000000000,0.0000000000 Q 12.0000000000,38.0000000000 -16.0000000000,34.0000000000 L -6.0000000000,66.0000000000 L 4.0000000000,62.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -417,7 +448,7 @@
 	</glyph>
 	<glyph id="1" left="-30" right="36">
 		<layer name= "Layer" visible="true">
-			<path data="S -18.0000000000,66.0000000000 Q -4.0000000000,66.0000000000 0.0000000000,52.0000000000 Q 2.0000000000,46.0000000000 4.0000000000,46.0000000000 Q 8.0000000000,52.0000000000 22.0000000000,66.0000000000 D 22.0000000000,66.0000000000 28.0000000000,60.0000000000 28.0000000000,60.0000000000 Q -26.0000000000,8.0000000000 26.0000000000,10.0000000000 Q 26.0000000000,10.0000000000 30.0000000000,0.0000000000 Q -26.0000000000,2.0000000000 -2.0000000000,38.0000000000 Q -4.7070312500,40.3320312500 -6.0000000000,44.0000000000 Q -10.0000000000,56.0000000000 -16.0000000000,56.0000000000 L -22.0000000000,46.0000000000 L -30.0000000000,52.0000000000 Q -26.1050283351,57.4529603309 -18.0000000000,66.0000000000" />
+			<path data="S -18.0000000000,66.0000000000 Q -4.0000000000,66.0000000000 0.0000000000,52.0000000000 Q 2.0000000000,46.0000000000 4.0000000000,46.0000000000 Q 8.0000000000,52.0000000000 22.0000000000,66.0000000000 D 22.0000000000,66.0000000000 28.0000000000,58.0000000000 28.0000000000,58.0000000000 Q -24.0000000000,8.0000000000 28.0000000000,10.0000000000 Q 28.0000000000,10.0000000000 30.0000000000,0.0000000000 Q -26.0000000000,0.0000000000 -2.0000000000,38.0000000000 Q -4.7070312500,40.3320312500 -6.0000000000,44.0000000000 Q -10.0000000000,56.0000000000 -16.0000000000,56.0000000000 L -22.0000000000,46.0000000000 L -30.0000000000,52.0000000000 Q -26.1050283351,57.4529603309 -18.0000000000,66.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -433,9 +464,9 @@
 			<path data="S -36.0000000000,6.0000000000 L -28.0000000000,4.0000000000 L -28.0000000000,24.0000000000 L 20.0000000000,24.0000000000 Q 22.0000000000,18.0000000000 24.0000000000,12.0000000000 Q 26.0000000000,6.0000000000 28.0000000000,0.0000000000 L 36.0000000000,2.0000000000 Q 32.0000000000,12.0000000000 26.0000000000,32.0000000000 Q 20.0000000000,52.0000000000 26.0000000000,58.0000000000 L 18.0000000000,60.0000000000 Q 16.0000000000,58.0000000000 16.0000000000,50.0000000000 Q 16.0000000000,42.0000000000 18.0000000000,32.0000000000 L -28.0000000000,32.0000000000 L -28.0000000000,54.0000000000 L -36.0000000000,56.0000000000 L -36.0000000000,6.0000000000" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-26" right="32">
+	<glyph id="2" left="-26" right="30">
 		<layer name= "Layer" visible="true">
-			<path data="S 12.0000000000,62.0000000000 L 18.0000000000,52.0000000000 Q 8.0000000000,46.0000000000 1.0000000000,37.0000000000 Q -6.0000000000,28.0000000000 -10.0000000000,16.0000000000 Q 0.0000000000,20.0000000000 7.0000000000,22.0000000000 Q 14.0000000000,24.0000000000 24.0000000000,26.0000000000 L 26.0000000000,14.0000000000 Q 12.0000000000,14.0000000000 -1.0000000000,10.0000000000 Q -14.0000000000,6.0000000000 -26.0000000000,0.0000000000 Q -22.0000000000,18.0000000000 -12.0000000000,34.0000000000 Q -2.0000000000,50.0000000000 12.0000000000,62.0000000000" />
+			<path data="S 10.0000000000,66.0000000000 L 14.0000000000,56.0000000000 Q -4.0000000000,38.0000000000 -8.0000000000,20.0000000000 Q 9.0382583092,27.7411507122 22.0000000000,30.0000000000 L 26.0000000000,20.0000000000 Q 2.5819439023,13.5211756038 -26.0000000000,0.0000000000 Q -16.0000000000,44.0000000000 10.0000000000,66.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -460,7 +491,7 @@
 </collection>
 
 <collection unicode="U+f8e7" svg="false"auto_generate="false">
-	<selected id="2"/>
+	<selected id="4"/>
 	<glyph id="1" left="-24" right="26">
 		<layer name= "Layer" visible="true">
 			<path data="S 26.1416254100,7.4634618223 L 21.8827148011,-0.4017578457 Q 4.5139713766,6.9689104995 -4.7439767720,11.4733967163 Q -14.0019249206,15.9778829331 -17.4433835387,20.8927951989 Q -24.3263007749,30.7226197303 -24.0000000000,40.7172947028 Q -23.6736992251,50.7119696752 -15.4821787822,56.4477340387 Q -4.0140501621,64.4778041476 4.8334719376,65.7898074613 Q 13.6809940373,67.1018107749 18.2696055281,60.5485944206 Q 24.0053698916,52.3570739777 20.9760373759,39.2489412156 Q 17.9467048602,26.1408084535 12.7054918195,12.7046748630 L 26.1416254100,7.4634618223" />
@@ -470,6 +501,16 @@
 	<glyph id="2" left="-26" right="34">
 		<layer name= "Layer" visible="true">
 			<path data="S 28.0000000000,66.0000000000 L 26.0000000000,56.0000000000 Q 14.0000000000,58.0000000000 3.0000000000,57.0000000000 Q -8.0000000000,56.0000000000 -12.0000000000,54.0000000000 Q -6.0000000000,34.0000000000 20.0000000000,10.0000000000 L 14.0000000000,0.0000000000 Q -16.0000000000,28.0000000000 -26.0000000000,62.0000000000 Q -22.0000000000,64.0000000000 -7.0000000000,66.0000000000 Q 8.0000000000,68.0000000000 28.0000000000,66.0000000000" />
+		</layer>
+	</glyph>
+	<glyph id="3" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S 28.0000000000,68.0000000000 Q 28.0000000000,68.0000000000 29.6640625000,57.2265625000 D 15.6015625000,58.1054687500 -2.1718750000,57.2265625000 -12.0000000000,55.9687500000 Q -6.0000000000,34.9687500000 20.0000000000,7.9687500000 L 14.0000000000,-2.0312500000 Q -16.0000000000,28.9687500000 -26.0000000000,63.9687500000 Q -14.0000000000,68.0000000000 28.0000000000,68.0000000000" />
+		</layer>
+	</glyph>
+	<glyph id="4" left="-26" right="36">
+		<layer name= "Layer" visible="true">
+			<path data="S 28.0000000000,67.3400000000 Q 28.0000000000,67.3400000000 30.0000000000,57.3400000000 D 15.9375000000,58.2189062500 -2.1718750000,58.5978125000 -12.0000000000,57.3400000000 Q -6.0000000000,36.3400000000 20.0000000000,9.3400000000 L 14.0000000000,-0.6600000000 Q -16.0000000000,30.3400000000 -26.0000000000,65.3400000000 Q -14.0000000000,69.3400000000 28.0000000000,67.3400000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -661,39 +702,45 @@
 
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-4.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="4.5209302326" />
-<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="4.5209302326" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="6.0279069767" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
@@ -703,109 +750,131 @@
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="4.0000000000" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="4.5209302326" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-27.1255813953" />
 <kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="4.5209302326" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-13.5627906977" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="4.5209302326" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-9.0418604651" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="-25.6186046512" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="6.0279069767" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-12.0558139535" />
+<kerning left="" right="" hadjustment="-15.0697674419" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-12.0558139535" />
+<kerning left="" right="" hadjustment="-15.0697674419" />
 <kerning left="" right="" hadjustment="-5.0000000000" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-22.6046511628" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-18.0837209302" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-13.5627906977" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-8.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-19.5906976744" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="2.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
@@ -813,80 +882,110 @@
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="6.0279069767" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="-1.0000000000" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-18.0837209302" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-19.5906976744" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="0.5348837209" />
-<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="-19.5906976744" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="-12.0558139535" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="4.5209302326" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-12.0558139535" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
-<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-12.0558139535" />
+<kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="4.5209302326" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-12.0558139535" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="-10.5488372093" />
 <kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="2.0000000000" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-10.5488372093" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-22.6046511628" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-12.0558139535" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
@@ -895,9 +994,9 @@
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
-<kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-2.0000000000" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="-0.4930232558" />
+<kerning left="" right="" hadjustment="-12.0558139535" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-7.0000000000" />
@@ -906,6 +1005,7 @@
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-22.6046511628" />
 <kerning left="" right="" hadjustment="-12.0558139535" />
@@ -915,42 +1015,48 @@
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="3.0139534884" />
+<kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-9.0000000000" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="-1.4930232558" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
+<kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-19.5906976744" />
+<kerning left="" right="" hadjustment="-18.0837209302" />
 <kerning left="" right="" hadjustment="3.0139534884" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="3.5069767442" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-6.0279069767" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5069767442" />
-<kerning left="" right="" hadjustment="-3.0139534884" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
-<kerning left="" right="" hadjustment="-6.0139534884" />
+<kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
@@ -958,7 +1064,7 @@
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="4.5209302326" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
@@ -970,6 +1076,7 @@
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-12.0558139535" />
 <kerning left="" right="" hadjustment="4.5209302326" />
+<kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-9.0418604651" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
@@ -979,19 +1086,22 @@
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-10.5488372093" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-6.0279069767" />
 <kerning left="" right="" hadjustment="-12.0558139535" />
 <kerning left="" right="" hadjustment="1.5069767442" />
+<kerning left="" right="" hadjustment="1.5069767442" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-4.5209302326" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-9.0418604651" />
-<kerning left="" right="" hadjustment="-4.5209302326" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 <kerning left="" right="" hadjustment="-7.5348837209" />
 <kerning left="" right="" hadjustment="-3.0139534884" />
 <kerning left="" right="" hadjustment="-1.5069767442" />
+<kerning left="" right="" hadjustment="-1.5069767442" />
 </font>
