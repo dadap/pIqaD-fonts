@@ -527,7 +527,7 @@
 	<selected id="1"/>
 	<glyph id="1" left="-26" right="0">
 		<layer name= "Layer" visible="true">
-			<path data="S -16.0000000000,82.0000000000 L -6.0000000000,74.0000000000 L -14.0000000000,66.0000000000 Q -6.0000000000,60.0000000000 -6.0000000000,54.0000000000 Q -6.0000000000,50.0000000000 -16.0000000000,42.0000000000 L -24.0000000000,50.0000000000 Q -18.0000000000,52.0000000000 -18.0000000000,56.0000000000 Q -18.0000000000,60.0000000000 -26.0000000000,64.0000000000 L -16.0000000000,82.0000000000" />
+			<path data="S -6.0000000000,64.0000000000 Q -14.0000000000,60.0000000000 -14.0000000000,56.0000000000 Q -14.0000000000,52.0000000000 -8.0000000000,50.0000000000 L -16.0000000000,42.0000000000 Q -26.0000000000,50.0000000000 -26.0000000000,54.0000000000 Q -26.0000000000,60.0000000000 -18.0000000000,66.0000000000 L -26.0000000000,74.0000000000 L -16.0000000000,82.0000000000 L -6.0000000000,64.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -711,7 +711,7 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-9.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
-<kerning left="" right="" hadjustment="-1.5000000000" />
+<kerning left="" right="" hadjustment="0.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
@@ -745,7 +745,7 @@
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
-<kerning left="" right="" hadjustment="-6.0000000000" />
+<kerning left="" right="" hadjustment="-4.0000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
@@ -776,6 +776,7 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-13.5000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
+<kerning left="" right="" hadjustment="2.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
@@ -783,7 +784,7 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
-<kerning left="" right="" hadjustment="-1.5000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
@@ -796,7 +797,7 @@
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-25.5000000000" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
@@ -804,7 +805,7 @@
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="-1.0000000000" />
 <kerning left="" right="" hadjustment="-15.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
@@ -847,7 +848,7 @@
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-9.0000000000" />
-<kerning left="" right="" hadjustment="-1.5000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="-19.5000000000" />
@@ -858,8 +859,9 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
-<kerning left="" right="" hadjustment="2.0000000000" />
+<kerning left="" right="" hadjustment="1.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="1.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
@@ -869,7 +871,7 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
 <kerning left="" right="" hadjustment="-9.0000000000" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="-2.5000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="-1.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
@@ -882,9 +884,10 @@
 <kerning left="" right="" hadjustment="0.5000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
+<kerning left="" right="" hadjustment="-0.5000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
-<kerning left="" right="" hadjustment="-1.5000000000" />
+<kerning left="" right="" hadjustment="-0.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
@@ -899,14 +902,14 @@
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
-<kerning left="" right="" hadjustment="-6.0000000000" />
+<kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
-<kerning left="" right="" hadjustment="-6.0000000000" />
+<kerning left="" right="" hadjustment="-5.0000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
@@ -915,16 +918,19 @@
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
+<kerning left="" right="" hadjustment="-1.0000000000" />
 <kerning left="" right="" hadjustment="-10.5000000000" />
-<kerning left="" right="" hadjustment="-12.0000000000" />
+<kerning left="" right="" hadjustment="-16.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
+<kerning left="" right="" hadjustment="2.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
+<kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="4.5000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-12.0000000000" />
@@ -960,7 +966,7 @@
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
-<kerning left="" right="" hadjustment="-4.5000000000" />
+<kerning left="" right="" hadjustment="-6.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
@@ -969,7 +975,7 @@
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="-22.5000000000" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
@@ -981,6 +987,7 @@
 <kerning left="" right="" hadjustment="-4.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
+<kerning left="" right="" hadjustment="1.0000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-0.5000000000" />
@@ -1044,7 +1051,7 @@
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="0.0000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
-<kerning left="" right="" hadjustment="-3.0000000000" />
+<kerning left="" right="" hadjustment="1.0000000000" />
 <kerning left="" right="" hadjustment="-7.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="-6.0000000000" />
@@ -1077,7 +1084,7 @@
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="3.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
-<kerning left="" right="" hadjustment="-6.0000000000" />
+<kerning left="" right="" hadjustment="-7.0000000000" />
 <kerning left="" right="" hadjustment="-12.0000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
 <kerning left="" right="" hadjustment="1.5000000000" />
@@ -1088,7 +1095,7 @@
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-9.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
-<kerning left="" right="" hadjustment="-7.5000000000" />
+<kerning left="" right="" hadjustment="-7.0000000000" />
 <kerning left="" right="" hadjustment="-3.0000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
 <kerning left="" right="" hadjustment="-1.5000000000" />
