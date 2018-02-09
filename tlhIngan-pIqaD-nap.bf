@@ -84,6 +84,16 @@
 	</glyph>
 </collection>
 
+<collection name=".notdef" svg="false"auto_generate="false">
+	<selected id="0"/>
+	<glyph id="0" left="-20" right="33">
+		<layer name= "Layer" visible="true">
+			<path data="S -15.0000000000,10.0000000000 M 15.0000000000,10.0000000000 M 15.0000000000,56.0000000000 M -15.0000000000,56.0000000000 M -15.0000000000,10.0000000000" />
+			<path data="S -20.0000000000,61.0000000000 M 20.0000000000,61.0000000000 M 20.0000000000,5.0000000000 M -20.0000000000,5.0000000000 M -20.0000000000,61.0000000000" />
+		</layer>
+	</glyph>
+</collection>
+
 <collection unicode="U+f8d0" svg="false"auto_generate="false">
 	<selected id="5"/>
 	<glyph id="0" left="-28" right="34">
