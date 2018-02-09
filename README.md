@@ -22,7 +22,7 @@ minor number representing all other changes to the font that do not affect its
 metrics, and the patch number representing documentation or packaging changes
 that do not affect the font.
 
-###pIqaD qolqoS  
+### pIqaD qolqoS  
 
 pIqaD qolqoS is a typeface of the Klingon pIqaD script with a simplified design.
 You can think of it as a "sans-serif" interpretation of the pIqaD forms. It was
@@ -45,7 +45,7 @@ Acknowledgements
 Klingon is a registered trademark of CBS Studios Inc. The shapes of the pIqaD
 glyphs are based on the scheme endorsed by the Klingon Language Institute.
 
-###Acknowledgements specific to pIqaD qolqoS
+### Acknowledgements specific to pIqaD qolqoS
 
 The glyph of the Klingon Empire logo (listed in the ConScript Unicode Registry
 as "KLINGON MUMMIFICATION GLYPH") at code point U+F8FF was copied from the
